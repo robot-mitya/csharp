@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<NUnitSettings>
+  <Settings>
+    <Setting name="Gui.DisplayFormat" value="Full" />
+    <Setting name="Gui.MainForm.Font" value="Microsoft Sans Serif, 8.25pt" />
+    <Setting name="Gui.MainForm.Height" value="489" />
+    <Setting name="Gui.MainForm.Left" value="276" />
+    <Setting name="Gui.MainForm.Maximized" value="False" />
+    <Setting name="Gui.MainForm.Top" value="22" />
+    <Setting name="Gui.MainForm.Width" value="897" />
+    <Setting name="Gui.RecentProjects.File1" value="D:\robot-mitya\Windows\RoboWindow\RoboConsoleTest\RoboConsoleTest.csproj" />
+    <Setting name="Gui.ResultTabs.ErrorsTabSplitterPosition" value="128" />
+    <Setting name="Gui.ResultTabs.SelectedTab" value="0" />
+    <Setting name="Gui.Settings.InitialPage" value="Gui.General" />
+    <Setting name="Options.TestLoader.ReloadOnRun" value="False" />
+  </Settings>
+</NUnitSettings>

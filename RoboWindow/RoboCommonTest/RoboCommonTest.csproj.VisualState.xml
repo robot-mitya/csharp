@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]D:\robot-mitya\Windows\RoboWindow\RoboCommonTest\RoboCommonTest.csproj</TopNode>
+  <SelectedNode>[0-1012]RoboCommonTest.MessageHelperTest.TestCorrectMessageWithNegativeSignedValue</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\robot-mitya\Windows\RoboWindow\RoboCommonTest\RoboCommonTest.csproj" Expanded="true" />
+    <Node UniqueName="[0-1021]D:\robot-mitya\Windows\RoboWindow\RoboCommonTest\bin\Debug\RoboCommonTest.exe" Expanded="true" />
+    <Node UniqueName="[0-1022]RoboCommonTest" Expanded="true" />
+    <Node UniqueName="[0-1001]RoboCommonTest.MessageHelperTest" Expanded="true" />
+  </Nodes>
+</VisualState>
